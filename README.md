@@ -1,6 +1,6 @@
-# 🎬 CineMatch AI - Intelligent Movie Recommendation System
+# 🎬 Netflix based Movie Recommendation System
 
-CineMatch AI is a content-based movie recommendation platform that helps users discover movies similar to their interests. The application combines machine learning, natural language processing, sentiment analysis, and real-time movie metadata retrieval to deliver personalized movie suggestions.
+A content-based movie recommendation platform that helps users discover movies similar to their interests. The application combines machine learning, natural language processing, sentiment analysis, and real-time movie metadata retrieval to deliver personalized movie suggestions.
 
 ## Features
 
@@ -109,7 +109,6 @@ These features are transformed into vector representations and used to calculate
 * Natural Language Processing
 * Machine Learning Model Deployment
 * REST API Integration
-* Web Scraping
 * End-to-End ML Application Development
 
 ---
